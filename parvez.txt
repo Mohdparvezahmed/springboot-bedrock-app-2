@@ -1,15 +1,9 @@
 public class Parvez{
     public static void main(String args[]){
           System.out.println("My name is parvez ahmed");
-	      System.out.println("My father name is Abdul Razzak Yadgiri!");
-		  System.out.println("My mother name is Akbari Begum");
-                     System.out.println("My elder sister name is Shaiesta Jabeen");
-			System.out.println("My second sister name is Madiha Museeb");
-		        System.out.println("My youngest sister name is Shifa Butool");
-		
-
     }
 }
+
 
 
 
